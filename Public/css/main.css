@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color: red; */
+}
+body{
+    background-color: #f8f9fd;
+}
+#img{
+    /* border: 1px solid red; */
+    width: 50%;
+    height: 100%;
+    
+}
+
+    
+
+#loginform{
+    background-color: white;
+    display: inline-block;
+    /* border: 1px solid black; */
+    width: 40%;
+    border-radius: 5px;
+    height:50vh;
+    margin-left:25%;
+    margin-top: 10%;
+    box-shadow: -1px 2px 5px gray;
+
+}
+form{
+      width:50% ;
+    /* border: 1px solid blue; */
+    margin-top: -60.5%;
+    margin-left: 50%;
+    height: 100%;
+    
+
+    
+}
+#inpu{
+    /* border: 1px solid blue; */
+    /* margin-top: 5px; */
+    /* padding: 10px; */
+}
+.formctrl{
+        display: block;
+        padding: 10px;
+        margin: 20px;
+        width: 85%;
+        margin-top:10px ;   
+        border-radius: 5px;
+        border: 0.3px solid gray; 
+}
+#formsubmit{
+    display: block;
+    width: 90%;
+    padding: 15px;
+    margin:20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e3b04d;
+    color: white;
+        
+}
+label{
+    display: block;
+    margin-left: 20px;
+    margin-bottom: -5px;
+    
+}
+#memb{
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+#llin{
+    margin-top: 20%;
+    
+    
+    /* border: 2px solid red; */
+  
+}
+#bot{
+    /* background-color: red; */
+    margin-top: 5%;
+    margin-left: 25%;
+}
+h2{
+    margin: 20px;
+}
+a{
+    
+    text-decoration: none;
+    /* color: #e3b04d; */
+}
+
